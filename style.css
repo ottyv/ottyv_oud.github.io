@@ -3,7 +3,7 @@ body {
 }
 
 .wrapper{
-  max-width: 500px;
+  max-width: 300px;
   margin: auto;
 }
 
@@ -12,5 +12,9 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+img {
+  margin-top: 200px;
 }
   
