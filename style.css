@@ -4,13 +4,9 @@ body {
 
 .wrapper{
   background-color: #DDDDDD;	
-  max-width: 800px;
+  max-width: 1000px;
   height: 2000px;
   margin: auto;
-}
-
-.leeg {
-height: 200px;	
 }
 
 .center {
