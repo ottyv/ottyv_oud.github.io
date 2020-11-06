@@ -1,9 +1,10 @@
 body {
-	background-color: #DDDDDD;
+	background-color: white;
 }
 
 .wrapper{
-  max-width: 300px;
+  background-color: #DDDDDD;	
+  max-width: 600px;
   margin: auto;
 }
 
@@ -15,6 +16,6 @@ body {
 }
 
 img {
-  margin-top: 200px;
+  margin-top: 300px;
 }
   
