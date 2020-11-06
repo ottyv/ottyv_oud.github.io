@@ -4,11 +4,12 @@ body {
 
 .wrapper{
   background-color: #DDDDDD;	
-  max-width: 600px;
+  max-width: 800px;
   margin: auto;
 }
 
 .center {
+  height: 2000px;
   margin-top: 300px;
   margin-left: auto;
   margin-right: auto;
